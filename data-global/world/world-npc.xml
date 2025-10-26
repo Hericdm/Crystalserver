@@ -804,6 +804,9 @@
 	<npc centerx="32210" centery="32296" centerz="6" radius="1">
 		<npc name="Charos" x="0" y="0" z="6" spawntime="60" />
 	</npc>
+	<npc centerx="32193" centery="32297" centerz="6" radius="1">
+		<npc name="Kepar" x="0" y="0" z="6" spawntime="60" />
+	</npc>
 	<npc centerx="32200" centery="32304" centerz="6" radius="1">
 		<npc name="Yana" x="0" y="0" z="6" spawntime="60" />
 	</npc>
@@ -1746,6 +1749,9 @@
 	<npc centerx="32097" centery="32218" centerz="7" radius="1">
 		<npc name="Cipfried" x="0" y="0" z="7" spawntime="60" />
 	</npc>
+	<npc centerx="32349" centery="32219" centerz="7" radius="1">
+		<npc name="Benjamin" x="0" y="0" z="7" spawntime="60" />
+	</npc>
 	<npc centerx="32390" centery="32219" centerz="7" radius="1">
 		<npc name="Quero" x="0" y="0" z="7" spawntime="60" />
 	</npc>
@@ -1766,6 +1772,9 @@
 	</npc>
 	<npc centerx="33492" centery="32227" centerz="7" radius="1">
 		<npc name="Taegen" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="32342" centery="32229" centerz="7" radius="1">
+		<npc name="Naji" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="32389" centery="32229" centerz="7" radius="1">
 		<npc name="Donald Mcronald" x="0" y="0" z="7" spawntime="60" />
@@ -1824,8 +1833,17 @@
 	<npc centerx="32291" centery="32292" centerz="7" radius="1">
 		<npc name="Eclesius" x="0" y="0" z="7" spawntime="60" />
 	</npc>
+	<npc centerx="32190" centery="32293" centerz="7" radius="1">
+		<npc name="Cledwyn" x="0" y="0" z="7" spawntime="60" />
+	</npc>
 	<npc centerx="33456" centery="32296" centerz="7" radius="1">
 		<npc name="Dancing Fairy" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="32209" centery="32297" centerz="7" radius="1">
+		<npc name="Rotem Valos" x="0" y="0" z="7" spawntime="60" />
+	</npc>
+	<npc centerx="32192" centery="32299" centerz="7" radius="1">
+		<npc name="Zethra" x="0" y="0" z="7" spawntime="60" />
 	</npc>
 	<npc centerx="32690" centery="32310" centerz="7" radius="1">
 		<npc name="Lorbas" x="0" y="0" z="7" spawntime="60" />
